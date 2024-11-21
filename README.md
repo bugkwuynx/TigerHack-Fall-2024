@@ -57,12 +57,9 @@ This project aims to provide a comprehensive transportation system for DePauw Un
 ### **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/chingo09/TigerHack.git
+   git clone https://github.com/bugkwuynx/TigerHack-Fall-2024.git
    ```
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
    ```bash
    npm init -y
    ```
