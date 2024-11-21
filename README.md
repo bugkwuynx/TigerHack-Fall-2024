@@ -68,6 +68,9 @@ This project aims to provide a comprehensive transportation system for DePauw Un
    ```
    ```bash
    npm install express csv-parser csv-writer body-parser cors
+   ```
+   ```bash
+   node server.js
 ---
 
 ### **Usage**
